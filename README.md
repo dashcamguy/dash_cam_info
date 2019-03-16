@@ -9,7 +9,7 @@ This info is valid as of Firmware 1.01.19b_US
 
 If you've got a different firmware, there may be things changed in that firmware you've got
 
-### Raspberry Pi Scripts for Yi Dash Cam recording
+### Raspberry Pi Node HTTP app for Yi Dash Cam recording
 
 This repo contains what looks like a great app that interacts with the Yi Dash Cam: https://github.com/tjwoon/sentinel
 
@@ -63,7 +63,7 @@ Port scanning makes the device reset.
 
 * 5001 (commplex-link ???)
 
-### Overall
+### Overview
 
 Fun to play around with, but could be better.
 

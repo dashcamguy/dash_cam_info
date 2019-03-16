@@ -5,6 +5,24 @@ Educational materials related to dashboard cameras
 
 Looks like the RTSP stream is at rtsp://192.168.1.254/livestream/12 but I haven't streamed it from there yet.
 
+Port scanning makes the device reset. Weird.
+
+Open ports:
+
+* 21 (ftp)
+
+* 80 (http)
+
+* 554 (rtsp)
+
+* 2223 (rockwell-csp2 ???)
+
+* 2226 (di-drm ???)
+
+* 3333 (dec-notes ???)
+
+* 5001 (commplex-link ???)
+
 ## Pruveeo F5 Dash Cam
 
 ### Streaming video

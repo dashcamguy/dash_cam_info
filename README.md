@@ -3,9 +3,15 @@ Educational materials related to dashboard cameras
 
 ## Yi Mini Dash Cam
 
-Looks like the RTSP stream is at rtsp://192.168.1.254/livestream/12 but I haven't streamed it from there yet.
+### RTSP stream
 
-Port scanning makes the device reset. Weird.
+It's at rtsp://192.168.1.254/livestream/12
+
+Device crashes and resets after a few seconds of streaming when using VLC
+
+Stream doesn't open up at all on TinyCam
+
+Port scanning makes the device reset.
 
 Open ports:
 

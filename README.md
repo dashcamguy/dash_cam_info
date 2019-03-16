@@ -21,11 +21,15 @@ Commands to the device seem to follow this format:
 
 http://192.168.1.254/?custom=1&cmd=3034&str=2019-03-16_10:30:26
 
+Responses seem to be in XML
+
 ### Software
 
 "jl 0.01 streaming server"
 
 Might be using "lwIP - A Lightweight TCP/IP stack"
+
+HTTP Server appears to be "eCos/1.0"
 
 ### Oddities
 

@@ -38,4 +38,10 @@ Logs you into a router config app which appears to be made by "South Silicon Val
 
 I'm guessing there's a SSV6051Z or SSV6051P chip in this device. Haven't yet opened it up to confirm.
 
+### Overview
+
 Overall, this device seems to be a pretty great deal for $30
+
+Audio streaming via RTSP and a higher frame rate would be significant improvements to this device
+
+8081 appears to be the "Command Port" where you can send the commands to set settings on the device

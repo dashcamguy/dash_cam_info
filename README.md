@@ -9,6 +9,10 @@ This info is valid as of Firmware 1.01.19b_US
 
 If you've got a different firmware, there may be things changed in that firmware you've got
 
+### Raspberry Pi Scripts for Yi Dash Cam recording
+
+This repo contains what looks like a great app that interacts with the Yi Dash Cam: https://github.com/tjwoon/sentinel
+
 ### RTSP stream
 
 It's at rtsp://192.168.1.254/livestream/12

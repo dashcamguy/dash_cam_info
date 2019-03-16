@@ -20,8 +20,8 @@ MJPEG stream at http://192.168.25.1:8080/?action=stream
 
 Command port is 8081
 
-### 
-HTTP Login page at http://192.168.25.1
+### HTTP Login page
+Chinese-only login page at http://192.168.25.1
 
 Translation of the login page:
 ```

@@ -37,6 +37,8 @@ Device crashes and resets after a few seconds of streaming when using VLC
 
 Stream doesn't open up at all on TinyCam
 
+Works fine using the official Yi Dashcam android app. Commands via HTTP may be necessary to keep the stream open.
+
 Port scanning makes the device reset.
 
 ### Open ports

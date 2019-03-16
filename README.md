@@ -35,3 +35,5 @@ Translation of the login page:
 Can login with no username or password. Just click the "Landing" button.
 
 Logs you into a router config app which appears to be made by "South Silicon Valley"
+
+I'm guessing there's a SSV6051Z or SSV6051P chip in this device. Haven't yet opened it up to confirm.

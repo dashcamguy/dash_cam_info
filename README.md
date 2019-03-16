@@ -65,7 +65,7 @@ Port scanning makes the device reset.
 
 ### Overall
 
-Meh
+Fun to play around with, but could be better.
 
 ## Pruveeo F5 Dash Cam
 

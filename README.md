@@ -67,6 +67,8 @@ Port scanning makes the device reset.
 
 Fun to play around with, but could be better.
 
+Seems to be pretty heavily focused on getting you to use the Yi Dash Cam app. Gotta use it to set up the camera, turn off the logo, and change the wifi ssid and password.
+
 ## Pruveeo F5 Dash Cam
 
 ### Streaming video
@@ -107,3 +109,5 @@ Overall, this device seems to be a pretty great deal for $30
 Audio streaming via RTSP and a higher frame rate would be significant improvements to this device
 
 8081 appears to be the "Command Port" where you can send the commands to set settings on the device
+
+Can change the wifi SSID and password within the device control menu. Great features!

@@ -83,7 +83,7 @@
 "GP_SOCK_TYPE_ACK": 2,
 "GP_SOCK_TYPE_CMD": 1,
 "GP_SOCK_TYPE_NAK": 3,
-"RTSP_STREAMING_URL": "rtsp"://192.168.25.1":8080/?action=stream",
+"RTSP_STREAMING_URL": "rtsp://192.168.25.1":8080/?action=stream",
 "STREAMING_PORT": 8080,
-"STREAMING_URL": "http"://192.168.25.1":8080/?action=stream",
+"STREAMING_URL": "http://192.168.25.1":8080/?action=stream",
 }

@@ -7,6 +7,8 @@ Educational materials related to dashboard cameras
 
 It's at rtsp://192.168.1.254/livestream/12
 
+Looks like it's video-only
+
 Device crashes and resets after a few seconds of streaming when using VLC
 
 Stream doesn't open up at all on TinyCam

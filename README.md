@@ -13,6 +13,8 @@ If you've got a different firmware, there may be things changed in that firmware
 
 This repo contains what looks like a great app that interacts with the Yi Dash Cam: https://github.com/tjwoon/sentinel
 
+Plus description of how it works, via the HTTP commands
+
 ### RTSP stream
 
 It's at rtsp://192.168.1.254/livestream/12

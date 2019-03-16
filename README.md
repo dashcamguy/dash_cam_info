@@ -3,11 +3,31 @@ Educational materials related to dashboard cameras
 
 ## Yi Mini Dash Cam
 
+### Device firmware version
+
+This info is valid as of Firmware 1.01.19b_US
+
+If you've got a different firmware, there may be things changed in that firmware you've got
+
 ### RTSP stream
 
 It's at rtsp://192.168.1.254/livestream/12
 
-Looks like it's video-only
+Looks like it's video-only, using H264 and RTP/AVP
+
+### Commands
+
+Commands to the device seem to follow this format:
+
+http://192.168.1.254/?custom=1&cmd=3034&str=2019-03-16_10:30:26
+
+### Software
+
+"jl 0.01 streaming server"
+
+Might be using "lwIP - A Lightweight TCP/IP stack"
+
+### Oddities
 
 Device crashes and resets after a few seconds of streaming when using VLC
 
@@ -15,7 +35,7 @@ Stream doesn't open up at all on TinyCam
 
 Port scanning makes the device reset.
 
-Open ports:
+### Open ports
 
 * 21 (ftp)
 

@@ -1,5 +1,7 @@
 ## Yi Mini Dash Cam
 
+This information is for educational purposes only.
+
 ### Device firmware version
 
 This info is valid as of Firmware 1.01.19b_US
